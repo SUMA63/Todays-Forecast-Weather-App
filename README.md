@@ -38,9 +38,9 @@ A simple and mobile-responsive **Weather App** built using **HTML5, CSS3, and Ja
 
 ## OUTPUT
 
-<!-- Uploading "Screenshot 2025-03-12 005903.png"... -->
+![Image](https://github.com/user-attachments/assets/88b83b2f-6e7b-44a9-86a1-931210a9ad07)
 
-<!-- Uploading "Screenshot 2025-03-12 005925.png"... -->
+![Image](https://github.com/user-attachments/assets/7525bb63-24f1-486d-9c12-fc9753e5b6d0)
 
 
 
