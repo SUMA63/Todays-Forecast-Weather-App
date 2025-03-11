@@ -38,3 +38,10 @@ CSS3 – Styled with Montserrat font, animated elements, and a sleek dark theme.
 JavaScript (ES6+) – Handles real-time weather updates, API fetching, and UI interactions.
 
 OpenWeatherMap API – Fetches live weather data for global locations.
+
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/2be32668-fada-473a-be4e-3423b5223496)
+
+![Image](https://github.com/user-attachments/assets/d156ba1d-49e3-43c7-aa3e-0fd77247a405)
+
