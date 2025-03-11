@@ -15,7 +15,9 @@ MENTOR : NEELA SANTHOSH
 
 A sleek, real-time weather application that provides accurate weather forecasts using the OpenWeatherMap API. Get instant updates on temperature, humidity, wind speed, and more for any city worldwide.
 
+
 🔹 Features
+
 ✅ Live Weather Updates – Get real-time temperature, weather conditions, humidity, wind speed, and more.
 
 ✅ Search Any City – Simply type the city name and get instant weather details.
@@ -26,7 +28,9 @@ A sleek, real-time weather application that provides accurate weather forecasts 
 
 ✅ Modern UI – Minimalist and elegant design with smooth animations.
 
+
 🔹 Technologies Used
+
 HTML5 – Structured and semantic webpage design.
 
 CSS3 – Styled with Montserrat font, animated elements, and a sleek dark theme.
