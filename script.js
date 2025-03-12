@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const container = document.body;
 
-    const API_KEY = "82700e7757c5066beb400f678a0bdf0c"; // Replace with your API key
+    const API_KEY = "82700e7757c5066beb400f678a0bdf0c"; 
 
     searchBtn.addEventListener("click", () => {
         const city = cityInput.value.trim();
